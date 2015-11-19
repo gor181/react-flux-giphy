@@ -1,2 +1,4 @@
-React Gihpy
+React Giphy
 =====================
+
+WIP!
